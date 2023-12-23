@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Page 
+title: Post Test Page 
 description: This page is a test 
 ---
 
