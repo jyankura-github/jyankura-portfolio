@@ -269,7 +269,7 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); }
+.page-header { color: #fff; text-align: center; background-color: #12c4dc; background-image: linear-gradient(120deg, #155799, #12c4dc); }
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
@@ -325,6 +325,8 @@ a:hover { text-decoration: underline; }
 .navbar { list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333; }
 
 .navitem { float: left; }
+
+.banner { width: 100%; height: auto; }
 
 .navitem .navlink { display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; }
 
