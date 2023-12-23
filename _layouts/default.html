@@ -24,7 +24,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      %- if page.image -%}
+      {%- if page.image -%}
         <img class="banner" src="{{- page.image | relative_url -}}", alt="", class="featured-image-post">
       {%- else -%} 
         {%- assign defaultImage = "/assets/images/default.jpg" -%}
