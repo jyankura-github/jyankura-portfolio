@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: My Portfolio
 description: This is the landing page for my portfolio site. 
 ---
