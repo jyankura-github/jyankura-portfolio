@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: README 
 description: I will leave development notes here. 
 ---
